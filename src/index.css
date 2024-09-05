@@ -28,7 +28,7 @@ canvas {
   margin-inline-end: auto;
   position: relative;
   max-width: 1120px;
-   overflow-x: hidden;
+   overflow: hidden;
 }
 
 @layer utilities {
