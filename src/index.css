@@ -6,7 +6,7 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
- overflow-block: auto;
+
 }
 
 body {
@@ -28,6 +28,7 @@ canvas {
   margin-inline-end: auto;
   position: relative;
   max-width: 1120px;
+   overflow-x: hidden;
 }
 
 @layer utilities {
